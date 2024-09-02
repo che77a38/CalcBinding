@@ -1,0 +1,12 @@
+D:\project\CalcBinding-master\CalcBinding\obj\Debug\net6.0-windows\CalcBinding.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\CalcBinding-master\CalcBinding\obj\Debug\net6.0-windows\CalcBinding.AssemblyInfoInputs.cache
+D:\project\CalcBinding-master\CalcBinding\obj\Debug\net6.0-windows\CalcBinding.AssemblyInfo.cs
+D:\project\CalcBinding-master\CalcBinding\obj\Debug\net6.0-windows\CalcBinding.csproj.CoreCompileInputs.cache
+D:\project\CalcBinding-master\CalcBinding\obj\Debug\net6.0-windows\CalcBinding.csproj.AssemblyReference.cache
+D:\project\CalcBinding-master\CalcBinding\bin\Debug\net6.0-windows\CalcBinding.deps.json
+D:\project\CalcBinding-master\CalcBinding\bin\Debug\net6.0-windows\CalcBinding.dll
+D:\project\CalcBinding-master\CalcBinding\bin\Debug\net6.0-windows\CalcBinding.pdb
+D:\project\CalcBinding-master\CalcBinding\obj\Debug\net6.0-windows\CalcBinding.dll
+D:\project\CalcBinding-master\CalcBinding\obj\Debug\net6.0-windows\refint\CalcBinding.dll
+D:\project\CalcBinding-master\CalcBinding\obj\Debug\net6.0-windows\CalcBinding.pdb
+D:\project\CalcBinding-master\CalcBinding\obj\Debug\net6.0-windows\ref\CalcBinding.dll
