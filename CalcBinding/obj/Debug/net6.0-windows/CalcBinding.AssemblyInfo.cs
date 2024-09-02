@@ -11,16 +11,16 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("che77a38")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("che77a38,Alexander Zinchenko")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © che77a38 2024-2034")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("CalcBinding - small library providing Binding markup extension with path expressi" +
     "ons directly in xaml(支持.net6.0)")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.01")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcBinding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcBinding")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.1.0.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/che77a38/CalcBinding")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

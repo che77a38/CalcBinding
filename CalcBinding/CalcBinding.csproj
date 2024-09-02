@@ -9,8 +9,8 @@
 		<AssemblyName>CalcBinding</AssemblyName>
 		<RootNamespace>CalcBinding</RootNamespace>
 		<PackageId>CalcBinding6</PackageId>
-		<Version>1.0</Version>
-		<Authors>che77a38</Authors>
+		<Version>1.01</Version>
+		<Authors>che77a38,Alexander Zinchenko</Authors>
 		<Company></Company>
 		<Product>CalcBinding</Product>
 		<Description>CalcBinding - small library providing Binding markup extension with path expressions directly in xaml(支持.net6.0)</Description>
